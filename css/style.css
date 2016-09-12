@@ -1,0 +1,6 @@
+.button-left:after,
+.button-min:after,
+.button-plus:after,
+.button-right:after, .banner:after {
+  text-indent: -999em;
+}

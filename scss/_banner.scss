@@ -1,0 +1,7 @@
+// banner.scss
+
+.banner {
+    &:after {
+        @include sprite-arrow();
+    }
+}

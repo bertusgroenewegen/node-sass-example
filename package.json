@@ -1,0 +1,10 @@
+{
+  "name": "issue",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "node-sass": "^3.9.3"
+  }
+}

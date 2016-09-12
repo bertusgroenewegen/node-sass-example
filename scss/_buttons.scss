@@ -1,0 +1,10 @@
+// button.scss
+
+.button-left,
+.button-min,
+.button-plus,
+.button-right {
+    &:after {
+        @include sprite-arrow();
+    }
+}

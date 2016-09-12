@@ -1,0 +1,9 @@
+// mixins.scss
+@mixin sprite-arrow() {
+     @extend %hidden-text;
+}
+
+//mixins.scss 
+%hidden-text {
+    text-indent: -999em;
+}
