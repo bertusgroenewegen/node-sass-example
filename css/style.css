@@ -1,6 +1,7 @@
 .button-left:after,
 .button-min:after,
 .button-plus:after,
-.button-right:after, .banner:after {
+.button-right:after, .banner:after, .calculator .btn-down:after,
+.calculator .btn-up:after {
   text-indent: -999em;
 }

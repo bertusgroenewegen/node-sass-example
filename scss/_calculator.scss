@@ -1,0 +1,8 @@
+.calculator {
+    .btn-down,
+    .btn-up {
+        &:after {
+            @include sprite-arrow();
+        }
+    }
+}
